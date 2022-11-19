@@ -9,6 +9,6 @@ How to:
 6. Press 'Go'. All the files will be copied in the 'renamed' folder according to your JSON mapping (Example: 5003.png -> dog.png).
 
 - WARNING: Do NOT rename or delete the aforementioned folders. The app will not work as intended.
-- WARNING: Do NOT put folders into 'to_rename'. That app will just crash or something like that.
+- WARNING: Do NOT put folders into 'to_rename'. The app will just crash or something like that.
 
 Tip: If you have a spreadsheet, you can just export it as a CSV and then convert CSV to JSON using https://csvjson.com/csv2json
