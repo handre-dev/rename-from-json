@@ -12,3 +12,6 @@ How to:
 - WARNING: Do NOT put folders into 'to_rename'. The app will just crash or something like that.
 
 Tip: If you have a spreadsheet, you can just export it as a CSV and then convert CSV to JSON using https://csvjson.com/csv2json
+
+Known issues:
+- Sometimes the progress bar can be unprecise
